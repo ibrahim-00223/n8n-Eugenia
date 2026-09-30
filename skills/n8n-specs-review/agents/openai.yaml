@@ -1,0 +1,4 @@
+interface:
+  display_name: "n8n Specs Review"
+  short_description: "Challenger et valider des specs n8n"
+  default_prompt: "Utilise $n8n-specs-review pour challenger ces spécifications n8n et rendre un verdict prêt ou pas prêt."
