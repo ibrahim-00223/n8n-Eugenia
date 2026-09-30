@@ -18,6 +18,7 @@ Le dossier [`skills`](skills/) contient des compétences réutilisables par un a
 
 - [`n8n-interview`](skills/n8n-interview/) : conduit un entretien de cadrage et produit les spécifications fonctionnelles d'un projet n8n avant sa conception technique.
 - [`n8n-specs-review`](skills/n8n-specs-review/) : challenge les spécifications par un entretien contradictoire et rend un verdict `PRÊT` ou `PAS PRÊT`.
+- [`n8n-architecture-review`](skills/n8n-architecture-review/) : compare un workflow JSON aux spécifications validées, audite son architecture technique et rend un verdict `PRÊT` ou `À REVOIR` accompagné d'un plan de corrections.
 
 ### Projets
 
