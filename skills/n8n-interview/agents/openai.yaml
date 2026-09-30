@@ -1,0 +1,4 @@
+interface:
+  display_name: "n8n Interview"
+  short_description: "Rédiger les specs d’un workflow n8n"
+  default_prompt: "Utilise $n8n-interview pour m’interviewer et rédiger les spécifications de mon projet n8n."
